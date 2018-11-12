@@ -17,7 +17,5 @@ for (let i = 1; i < 100; i++) {
         console.log('Fizz' + ' ' + i);
     } else if (i % 5 === 0) {
         console.log('Buzz' + ' ' + i);
-    } else {
-        
-    }
+    } 
 }
